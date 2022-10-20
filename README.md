@@ -14,5 +14,5 @@ Initalized by the following people:
 
 # Tasks & Deadlines 
 :triangular_flag_on_post: By October 23, 2022
--Finalize the NLP method
--Finalize the dataset 
+- Finalize the NLP method
+- Finalize the dataset 
