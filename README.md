@@ -16,3 +16,7 @@ Initalized by the following people:
 :triangular_flag_on_post: By October 23, 2022
 - Finalize the NLP method
 - Finalize the dataset 
+
+
+## [Links and Information](https://docs.google.com/document/d/1fwW8X0U57968MVyeqeMU0F2DtAbpiFQGJw3DpwY8DeM/edit)
+
